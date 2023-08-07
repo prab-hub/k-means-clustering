@@ -7,3 +7,4 @@ Algorithm segmented our customers into 6 clusters. [They can be seen here.](http
 
 Clustered are visualized here: 
 
+![K-Means Clustering Customers 1](https://github.com/prab-hub/k-means-clustering/assets/138904621/73aaf407-1339-4994-a88d-1573b0b09571)
